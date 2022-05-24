@@ -1,6 +1,7 @@
 ## Olá Mundo! Eu sou o James 👋
 - 🔭 Aperfeiçoando meus conhecimentos em Desenvolvimmento BackEnd
 - 🌱 Estudando Python
+- 🚀 Me aventurando em Ciência de Dados
 <div align="center">
   <a href="https://github.com/jamesgcastrof">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=jamesgcastrof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
