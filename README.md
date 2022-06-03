@@ -1,6 +1,8 @@
 ## Olá Mundo! Eu sou o James 👋
 - 🔭 Aperfeiçoando meus conhecimentos em Desenvolvimmento BackEnd
+- 🛩️ Linguagem de programação
 - 🌱 Estudando Python
+- ☕ Brincando Java
 - 🚀 Me aventurando em Ciência de Dados
 
 <div align="center">
