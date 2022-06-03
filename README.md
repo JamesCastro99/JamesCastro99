@@ -2,7 +2,7 @@
 - 🔭 Aperfeiçoando meus conhecimentos em Desenvolvimmento BackEnd
 - 🛩️ Linguagem de programação
 - 🌱 Estudando Python
-- ☕ Brincando Java
+- ☕ Brincando com Java
 - 🚀 Me aventurando em Ciência de Dados
 
 <div align="center">
