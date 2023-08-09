@@ -1,5 +1,5 @@
 ## Olá Mundo! Eu sou o James 👋
-Sou um desenvolvedor BackEnd em busca de aprimorar os meus conhecimentos em linguagem de programação. Atualmente, estou estudando Python, brincando com Java e me aventurando em Ciência de Dados.
+Sou um desenvolvedor que adora explorar diferentes linguagens de programação, especialmente Python, e tenho o sonho de atuar na área de Ciência de Dados. Atualmente, estou me aperfeiçoando nas melhores práticas e ferramentas para criar soluções inteligentes e inovadoras com essas tecnologias.
 
 <div align="center">
   <a href="https://github.com/jamesgcastrof">
