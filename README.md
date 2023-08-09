@@ -1,15 +1,12 @@
 ## Olá Mundo! Eu sou o James 👋
-- 🔭 Aperfeiçoando meus conhecimentos em Desenvolvimmento BackEnd
-- 🛩️ Linguagem de programação
-- 🌱 Estudando Python
-- ☕ Brincando com Java
-- 🚀 Me aventurando em Ciência de Dados
+Sou um desenvolvedor BackEnd em busca de aprimorar os meus conhecimentos em linguagem de programação. Atualmente, estou estudando Python, brincando com Java e me aventurando em Ciência de Dados.
 
 <div align="center">
   <a href="https://github.com/jamesgcastrof">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=jamesgcastrof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgcastrof&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesgcastrof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgcastrof&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="James-Python" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="James-Jupyter" height="33" width="33" src="https://raw.githubusercontent.com/jamesgcastrof/devicon/master/icons/jupyter/jupyter-original.svg">
