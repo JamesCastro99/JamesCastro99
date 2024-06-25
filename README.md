@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o James</h1>
-<h3 align="center">Sou um desenvolvedor que adora explorar diferentes linguagens de programação, especialmente Python, e tenho o sonho de atuar na área de Ciência de Dados. Atualmente, estou me aperfeiçoando nas melhores práticas e ferramentas para criar soluções inteligentes e inovadoras com essas tecnologias.</h3>
+<h3 align="center">Sou um desenvolvedor que adora explorar diferentes linguagens de programação, especialmente Python, e tenho o sonho de atuar na área de Engenharia de Dados. Atualmente, estou me aperfeiçoando nas melhores práticas e ferramentas para criar soluções inteligentes e inovadoras com essas tecnologias.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesgcastrof&label=Profile%20views&color=0e75b6&style=flat" alt="jamesgcastrof" /> </p>
 
